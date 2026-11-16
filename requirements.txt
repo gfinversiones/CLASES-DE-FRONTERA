@@ -1,4 +1,3 @@
-quirements · TXT
 streamlit
 yfinance
 pandas
