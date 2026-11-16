@@ -1,5 +1,8 @@
+quirements · TXT
+streamlit
 yfinance
 pandas
 numpy
 matplotlib
 scipy
+ 
