@@ -1,1 +1,5 @@
-# CLASES-DE-FRONTERA
+yfinance
+pandas
+numpy
+matplotlib
+scipy
